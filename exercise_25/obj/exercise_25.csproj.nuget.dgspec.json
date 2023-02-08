@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Homework5\\exercise_25\\exercise_25.csproj": {}
+    "D:\\PythonGB\\C#\\HW_cs_5\\exercise_25\\exercise_25.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Homework5\\exercise_25\\exercise_25.csproj": {
+    "D:\\PythonGB\\C#\\HW_cs_5\\exercise_25\\exercise_25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Homework5\\exercise_25\\exercise_25.csproj",
+        "projectUniqueName": "D:\\PythonGB\\C#\\HW_cs_5\\exercise_25\\exercise_25.csproj",
         "projectName": "exercise_25",
-        "projectPath": "D:\\C#\\Homework5\\exercise_25\\exercise_25.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Homework5\\exercise_25\\obj\\",
+        "projectPath": "D:\\PythonGB\\C#\\HW_cs_5\\exercise_25\\exercise_25.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\PythonGB\\C#\\HW_cs_5\\exercise_25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
